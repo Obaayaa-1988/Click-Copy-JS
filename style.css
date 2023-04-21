@@ -17,3 +17,7 @@ body{
     background-color: deepskyblue;
     font-family: Poppins;
 }
+
+.box{
+    height: 100vh;
+}
